@@ -1,8 +1,6 @@
-Here's a README file specifically tailored for your `DarkSkull.py` script:
-
----
-
 # DarkSkull
+
+![Screenshot from 2024-08-25 21-39-29](https://github.com/user-attachments/assets/031acad9-a76e-4670-8c43-fbb03729c284)
 
 DarkSkull is a tool for performing various WiFi network security tasks, including enabling monitor mode, scanning for networks, capturing handshakes, and cracking WPA/WPA2 handshakes. This script utilizes popular tools like `airmon-ng`, `airodump-ng`, `aireplay-ng`, `hcxpcapngtool`, and `hashcat` to achieve its functionalities.
 
