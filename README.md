@@ -1,4 +1,4 @@
-# DarkSkull
+## DarkSkull
 
 ![Screenshot from 2024-08-25 21-39-29](https://github.com/user-attachments/assets/031acad9-a76e-4670-8c43-fbb03729c284)
 
